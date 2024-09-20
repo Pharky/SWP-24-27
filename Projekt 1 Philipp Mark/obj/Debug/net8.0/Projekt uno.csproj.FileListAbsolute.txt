@@ -1,0 +1,14 @@
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\bin\Debug\net8.0\Projekt uno.exe
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\bin\Debug\net8.0\Projekt uno.deps.json
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\bin\Debug\net8.0\Projekt uno.runtimeconfig.json
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\bin\Debug\net8.0\Projekt uno.dll
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\bin\Debug\net8.0\Projekt uno.pdb
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.AssemblyInfoInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.AssemblyInfo.cs
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.csproj.CoreCompileInputs.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.dll
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\refint\Projekt uno.dll
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.pdb
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\Projekt uno.genruntimeconfig.cache
+C:\Users\phark\OneDrive\Dokumente\SCHULE\SWP\SWP 3. Klasse\SWP-24-27\Projekt uno\obj\Debug\net8.0\ref\Projekt uno.dll
