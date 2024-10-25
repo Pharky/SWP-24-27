@@ -125,3 +125,32 @@ class Program
         return new string(charArray);
     }
 }
+
+/*
+Theoriefragen:
+
+1) Was ist eine Kontrollstruktur? Welche Kontrollstrukturen kennen Sie in C#?
+   - Eine Kontrollstruktur ist ein Programmierkonstrukt, das den Ablauf und die Ausführung eines Programms steuert. In C# gibt es verschiedene Kontrollstrukturen:
+     - Bedingte Anweisungen: `if`, `else if`, `else`, `switch`
+     - Schleifen: `for`, `while`, `do-while`, `foreach`
+     - Schleifensteuerungen: `break`, `continue`, `return`, `goto`
+     Kontrollstrukturen helfen, Wiederholungen oder Bedingungen für den Code zu machen
+
+2) Was bedeutet der Begriff Clean Code in der Softwareentwicklung? Welche Clean-Code-Prinzipien kennen Sie?
+   - Clean Code bezieht sich auf Code, der gut strukturiert, lesbar und leicht wartbar ist. Ziel von Clean Code ist es, dass der Code auch von anderen Entwicklern schnell verstanden und geändert werden kann.
+     Clean-Code-Prinzipien umfassen unter anderem:
+       - **Kleine, fokussierte Funktionen**: Jede Funktion sollte nur eine Aufgabe haben.
+       - **Einheitliche Formatierung**: Konsistente Einrückungen, Leerzeilen und Struktur für eine saubere Code-Optik.
+       - **Vermeidung von Code-Duplikaten**: Wiederholter Code sollte in eine eigene Methode oder Klasse ausgelagert werden.
+       - **Fehlerbehandlung**: Möglichst präzise und verständliche Fehlerbehandlungen und -meldungen.
+       - **besser lesbarer code**: kann z.B. mit CamelCasing erzielt werden, das hilft dabei lange Schlangen viel einfacher lesbar zu machen.
+
+3) Was ist der Unterschied zwischen der Methode Parse und TryParse in C#? Auf was müssen Sie bei der Verwendung der Methode Parse achten?
+   - `Parse` und `TryParse` sind Methoden, um Zeichenketten in numerische Typen wie `int`, `double`, etc. umzuwandeln.
+     - `Parse`: Wandelt die Zeichenkette in einen numerischen Typ um, löst jedoch eine Ausnahme (Exception) aus, wenn die Konvertierung fehlschlägt.
+     - `TryParse`: Versucht die Konvertierung, gibt `true` zurück, wenn sie erfolgreich war, und `false`, wenn sie fehlschlägt, ohne eine Ausnahme auszulösen.
+     Bei `Parse` muss sichergestellt sein, dass die Zeichenkette tatsächlich den gewünschten numerischen Wert enthält, um Fehler zu vermeiden.
+
+4) Was genau macht folgender C#-Code: `int myInt = 42;`
+   - Der Code `int myInt = 42;` deklariert eine Ganzzahlvariable namens `myInt` und weist ihr den Wert `42` zu. `int` ist der Datentyp (Ganzzahl), `myInt` ist der Name der Variablen, und `42` ist der Wert, der in `myInt` gespeichert wird.
+*/
