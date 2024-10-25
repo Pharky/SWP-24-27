@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt uno\\Projekt uno.csproj": {}
+    "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Projekt uno.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt uno\\Projekt uno.csproj": {
+    "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Projekt uno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt uno\\Projekt uno.csproj",
+        "projectUniqueName": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Projekt uno.csproj",
         "projectName": "Projekt uno",
-        "projectPath": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt uno\\Projekt uno.csproj",
+        "projectPath": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\Projekt uno.csproj",
         "packagesPath": "C:\\Users\\phark\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt uno\\obj\\",
+        "outputPath": "C:\\Users\\phark\\OneDrive\\Dokumente\\SCHULE\\SWP\\SWP 3. Klasse\\SWP-24-27\\Projekt 1 Philipp Mark\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
