@@ -11,7 +11,6 @@ int chooseOperator = int.Parse(Console.ReadLine());
 MathOperation operation = new MathOperation();
 
 switch (chooseOperator)
-{
     case 1:
 
         Console.WriteLine("Gebe ein von was du die Wurzel ziehen willst");
@@ -72,7 +71,6 @@ switch (chooseOperator)
 
 class MathOperation
 {
-    public long Fakultät(int Zahl)
     {
         long fakultätErgebnis = 1;
         for (int i = 1; i <= Zahl; i++)
